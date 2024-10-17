@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Akira Nair!
-- 👀 I’m interested in computational biology, neuroscience, bioinformatics, and health informatics.
-- 🌱 I’m currently learning how to develop deep learning models.
-- 💞️ I’m looking to collaborate on AI-driven models and software to advance medicine. 
-- 📫 How to reach me: akira_nair@brown.edu
+- 👀 I'm interested in leveraging AI and software to accelerate our understanding of human biology and ultimately create effective solutions to treat disease.
+- 📫 How to reach me: akira.nair@pennmedicine.upenn.edu
 
 <!---
 akira-nair/akira-nair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
